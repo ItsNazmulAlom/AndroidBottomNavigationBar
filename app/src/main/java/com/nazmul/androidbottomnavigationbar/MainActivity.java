@@ -63,7 +63,7 @@ public class MainActivity extends AppCompatActivity {
         FragmentTransaction fragmentTransaction=getSupportFragmentManager().beginTransaction();
         fragmentTransaction.replace(R.id.mainframe,fragment);
         fragmentTransaction.commit();
-//hello
+//hello bd
     }
 
 }
