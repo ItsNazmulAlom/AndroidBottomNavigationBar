@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#32AA36</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="BottomColor">#FF44661B</color>
+
+    <color name="color">#FFA200</color>
+
+
+
+    <color name="home">#FFFFA200</color>
+    <color name="music">#771919</color>
+    <color name="cart">#228199</color>
+</resources>
